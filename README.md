@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-green)](#)
+
+
+
 # 🧠 NIO RSI + VWAP Trading Bot
 
 This automated trading bot executes intraday trades on stocks like **NIO, AAPL, and TSLA** using a **momentum strategy based on RSI and VWAP indicators**. It's built in Python and integrates with the Alpaca API for simulation and strategy development.
