@@ -12,3 +12,11 @@ This automated trading bot executes intraday trades on stocks like **NIO, AAPL, 
 
 ## 📂 Project Structure
 
+📁 nio-rsi-trading-bot/
+├── nio_trading_bot.py # Core bot logic
+├── dashboard.py # Streamlit app
+├── generate_excel_dashboard.py # Optional Excel report
+├── trade_log.csv # Bot trade history
+├── daily_summary.csv # Daily P/L tracking
+├── requirements.txt # Python dependencies
+└── .gitignore # Exclude logs/secrets
