@@ -1,0 +1,51 @@
+Bot launched for NIO. Waiting for market data...
+Bot launched for TSLA. Waiting for market data...
+Bot launched for AAPL. Waiting for market data...
+NIO RSI: 50.90
+TSLA RSI: 68.49
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'AAPL RSI: 41.37
+
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37TSLA RSI: 68.49
+
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+AAPL RSI: 41.37
+[!] RSI signal error for AAPL: 'list' object has no attribute 'rolling'
+NIO RSI: 50.90
+[!] RSI signal error for NIO: 'list' object has no attribute 'rolling'
+TSLA RSI: 68.49
+[!] RSI signal error for TSLA: 'list' object has no attribute 'rolling'
